@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656098664255",
+    "project_id": "calculadofinal",
+    "storage_bucket": "calculadofinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656098664255:android:6cd6e6570c99a8cc69bd8a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_y-2NwivWoMEOc2nfOQdaBO5ZctIGHfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="adicao_mensagem">Conta de adição feita com sucesso!</string>
+    <string name="subtracao_mensagem">Conta de subtração feita com sucesso!</string>
+    <string name="multiplicacao_mensagem">Conta de multiplicação feita com sucesso!</string>
+    <string name="divisao_mensagem">Conta de divisão feita com sucesso!</string>
+    <string name="fatorial_muito_alto">Número muito alto para Factorial</string>
+    <string name="invalido_logaritimo">Valor inválido para logaritmo!</string>
+    <string name="erro_definir_porcentagem">Erro ao definir valor de porcentagem!</string>
+    <string name="sem_valor_porcentagem">Nenhum valor de porcentagem definido!</string>
+    <string name="erro_valores_inseridos">Erro no cálculo. Verifique os valores.</string>
+    <string name="erro_numero_invalido">Erro Número Invalido.</string>
+    <string name="memoria_limpada_mensagem">Memória limpa!</string>
+    <string name="divisao_por_zero_mensagem">Não é Possivel Fazer divisão por 0</string>
+
+</resources>
